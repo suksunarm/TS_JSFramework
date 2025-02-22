@@ -1,0 +1,12 @@
+{
+
+  "main": "dist/hello.js",
+"scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only src/hello.ts",
+    "build": "tsc"
+  },
+
+  "dependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
