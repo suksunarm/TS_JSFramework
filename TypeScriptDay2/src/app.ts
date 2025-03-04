@@ -22,5 +22,12 @@
 // import { functiontype } from "./topics/function";
 // functiontype()
 
-import { classObject } from "./topics/class_object";
-classObject()
+// import { classObject } from "./topics/class_object";
+// classObject()
+
+// import { asyncpromises } from "./topics/async_promises";
+// asyncpromises()
+
+import { async_await } from "./topics/async_await";
+
+async_await()
